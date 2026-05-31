@@ -1,0 +1,53 @@
+## Kebijakan Privasi ValNime
+
+**Terakhir Diperbarui:** June 1 2026
+
+ValNime ("kami", "aplikasi kami") menghargai privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan aplikasi ValNime.
+
+### 1. Informasi yang Kami Kumpulkan
+
+Saat Anda menggunakan ValNime, kami mungkin meminta akses ke informasi tertentu melalui akun Google Anda untuk menyediakan fitur inti aplikasi:
+
+* **Informasi Profil Google:** Saat Anda memilih untuk masuk (login) menggunakan Google, kami menerima informasi dasar profil Anda seperti alamat email, nama, dan foto profil.
+* **Akses Google Drive:** Aplikasi kami meminta izin untuk mengakses Google Drive Anda secara terbatas (*Google Drive API scope*).
+
+### 2. Bagaimana Kami Menggunakan Informasi Anda
+
+Data yang kami peroleh hanya digunakan untuk keperluan fungsionalitas aplikasi dan tidak untuk hal lain:
+
+* **Autentikasi:** Email dan profil Google Anda digunakan semata-mata untuk mengidentifikasi Anda di dalam aplikasi dan memberikan pengalaman yang dipersonalisasi.
+* **Sinkronisasi Riwayat Tontonan:** Akses ke Google Drive digunakan **hanya** untuk membuat, menyimpan, dan memulihkan (*restore*) data riwayat tontonan anime Anda. ValNime hanya berinteraksi dengan file konfigurasi atau folder khusus yang dibuat oleh aplikasi ini, dan **tidak** akan membaca, mengubah, atau menghapus file pribadi Anda yang lain di Google Drive.
+
+### 3. Kepatuhan terhadap Kebijakan Data Pengguna Layanan API Google
+
+Penggunaan dan transfer informasi yang diterima oleh ValNime dari Google API ke aplikasi lain akan mematuhi [Kebijakan Data Pengguna Layanan API Google](https://developers.google.com/terms/api-services-user-data-policy), termasuk persyaratan Penggunaan Terbatas (*Limited Use requirements*).
+
+### 4. Berbagi Data
+
+Kami **tidak** menjual, menyewakan, atau membagikan informasi pribadi atau data Google Drive Anda kepada pihak ketiga (seperti pengiklan atau perusahaan analitik). Data riwayat tontonan Anda langsung ditransfer antara perangkat Anda dan akun Google Drive Anda sendiri tanpa melewati server eksternal milik kami.
+
+### 5. Keamanan Data
+
+Kami mengutamakan keamanan data Anda. Autentikasi dilakukan langsung melalui sistem keamanan Google yang terenkripsi. Karena riwayat tontonan disimpan di Google Drive pribadi Anda, keamanan data tersebut mengikuti standar keamanan infrastruktur Google.
+
+### 6. Pencabutan Akses dan Penghapusan Data
+
+Anda memiliki kendali penuh atas data Anda. Anda kapan saja dapat:
+
+* Keluar (*logout*) dari aplikasi ValNime.
+* Mencabut akses ValNime ke Google Drive dan akun Google Anda melalui halaman pengaturan keamanan Akun Google Anda ([https://myaccount.google.com/permissions](https://myaccount.google.com/permissions)).
+* Menghapus file riwayat tontonan yang dibuat oleh ValNime langsung dari dalam akun Google Drive Anda.
+
+### 7. Perubahan pada Kebijakan Privasi
+
+Kami mungkin memperbarui Kebijakan Privasi ini dari waktu ke waktu. Jika ada perubahan signifikan, kami akan memberitahukannya di dalam aplikasi.
+
+### 8. Hubungi Kami
+
+Jika Anda memiliki pertanyaan atau kekhawatiran tentang Kebijakan Privasi ini, silakan hubungi kami di:
+
+* **Email:** Hakim.sembara@gmail.com
+
+---
+
+Apakah kamu ingin bagian tertentu ditambahkan, seperti kebijakan terkait penggunaan *open-source* atau batasan umur pengguna untuk ValNime?
