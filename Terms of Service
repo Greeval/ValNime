@@ -1,0 +1,43 @@
+## Syarat dan Ketentuan Layanan ValNime
+
+**Terakhir Diperbarui:** june 1 2026
+
+Harap baca Syarat dan Ketentuan Layanan ("Syarat") ini dengan saksama sebelum menggunakan aplikasi ValNime ("kami", "aplikasi"). Dengan mengunduh, mengakses, atau menggunakan ValNime, Anda menyetujui untuk terikat oleh Syarat ini. Jika Anda tidak setuju dengan bagian mana pun dari Syarat ini, Anda tidak diperkenankan menggunakan aplikasi kami.
+
+### 1. Penggunaan Aplikasi
+
+* **Kelayakan:** ValNime menyediakan akses ke konten animasi (anime) yang mungkin memiliki rating usia bervariasi. Dengan menggunakan aplikasi ini, Anda mengonfirmasi bahwa Anda telah memenuhi batas usia yang sesuai untuk menonton konten yang Anda pilih, atau didampingi oleh orang tua/wali hukum.
+* **Penggunaan Non-Komersial:** Aplikasi ini disediakan secara gratis untuk penggunaan pribadi dan non-komersial. Anda tidak diperkenankan memodifikasi, mendistribusikan ulang, atau menjual bagian mana pun dari aplikasi ini.
+
+### 2. Sumber Konten dan Hak Cipta
+
+* **Agregator Pihak Ketiga:** ValNime beroperasi sebagai antarmuka pemutar media dan agregator (*indexer*). Kami **tidak** mengunggah, menyimpan, atau menghosting file video, gambar, atau media apa pun di server kami sendiri.
+* **Tanggung Jawab Konten:** Semua konten anime yang dapat diakses melalui aplikasi disediakan oleh pihak ketiga yang tidak terafiliasi dengan ValNime. Segala pelanggaran hak cipta yang terkait dengan media yang di-streaming adalah tanggung jawab penyedia *host* konten tersebut, bukan pihak ValNime.
+
+### 3. Akun Pengguna dan Layanan Google
+
+* **Integrasi Pihak Ketiga:** ValNime menggunakan layanan Google OAuth untuk login dan Google Drive API untuk menyinkronkan riwayat tontonan Anda.
+* **Keamanan Akun:** Anda bertanggung jawab penuh untuk menjaga keamanan akun Google Anda. ValNime tidak bertanggung jawab atas kerugian yang timbul akibat peretasan atau akses tidak sah ke akun Google pribadi Anda.
+* **Ketergantungan Layanan:** Kinerja fitur sinkronisasi (*restore/backup*) sangat bergantung pada ketersediaan dan kebijakan layanan API Google Drive. Kami tidak bertanggung jawab atas gangguan fitur ini jika Google mengubah kebijakan atau membatasi akses API.
+
+### 4. Penafian Jaminan (*Disclaimer of Warranties*)
+
+* Aplikasi ValNime disediakan secara "apa adanya" (*as is*) dan "sebagaimana tersedia" (*as available*).
+* Kami tidak memberikan jaminan bahwa aplikasi akan selalu bebas dari kesalahan, tidak terganggu, atau bahwa kerusakan (*bug*) pada aplikasi akan selalu dapat diperbaiki.
+* Kami tidak menjamin kualitas, akurasi, atau kelancaran *streaming* video, karena hal tersebut bergantung pada koneksi internet Anda dan server penyedia konten pihak ketiga.
+
+### 5. Batasan Tanggung Jawab
+
+Sejauh diizinkan oleh hukum yang berlaku, pengembang ValNime tidak bertanggung jawab atas segala kerugian langsung, tidak langsung, insidental, atau konsekuensial (termasuk namun tidak terbatas pada hilangnya data riwayat tontonan, kerusakan perangkat, atau gangguan layanan) yang timbul dari penggunaan atau ketidakmampuan Anda dalam menggunakan aplikasi ini.
+
+### 6. Perubahan Syarat dan Layanan
+
+* Kami berhak untuk mengubah, menangguhkan, atau menghentikan layanan ValNime (atau fitur apa pun di dalamnya, seperti integrasi Google Drive) kapan saja tanpa pemberitahuan sebelumnya.
+* Kami dapat merevisi Syarat dan Ketentuan ini dari waktu ke waktu. Perubahan akan berlaku segera setelah diperbarui di dalam aplikasi. Penggunaan berkelanjutan atas aplikasi setelah perubahan berarti Anda menerima Syarat yang baru.
+
+### 7. Kontak dan Dukungan
+
+Jika Anda memiliki pertanyaan, masukan, atau laporan masalah teknis terkait aplikasi, Anda dapat menghubungi pengembang di:
+
+* **Email:** hakim.sembara@gmail.com
+* **Platform Pengembang:** https://github.com/Greeval
