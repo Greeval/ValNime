@@ -1,0 +1,2 @@
+# ValNime
+Aplikasi Nonton Anime
